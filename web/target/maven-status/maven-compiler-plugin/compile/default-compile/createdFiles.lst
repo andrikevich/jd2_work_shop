@@ -1,0 +1,9 @@
+it\academy\web\controller\PromoController.class
+it\academy\web\controller\HomeController.class
+it\academy\web\security\WebShopSecurityConfiguration.class
+it\academy\web\WebShopControllerSecurityConfiguration.class
+it\academy\web\controller\SearchController.class
+it\academy\web\WebShopInitialither.class
+it\academy\web\WebShopConfiguration.class
+it\academy\web\security\WebShopSecurityInitializer.class
+it\academy\web\controller\ProductController.class

@@ -1,0 +1,8 @@
+it\academy\AppConfig.class
+it\academy\MainApp.class
+it\academy\service\SearchService.class
+it\academy\service\dto\PromoAndProductDto.class
+it\academy\service\ProductService.class
+it\academy\service\dto\PromoDto.class
+it\academy\service\VisitorService.class
+it\academy\service\PromoService.class

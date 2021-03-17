@@ -1,0 +1,8 @@
+it\academy\dao\PromoDao.class
+it\academy\dao\DaoConfiguration.class
+it\academy\dao\PromoDaoImpl.class
+it\academy\dao\VisitorDao.class
+it\academy\dao\ProductDao.class
+it\academy\dao\ProductDaoImpl.class
+it\academy\dao\PromoDaoNewImpl.class
+it\academy\dao\VisitorDaoImpl.class

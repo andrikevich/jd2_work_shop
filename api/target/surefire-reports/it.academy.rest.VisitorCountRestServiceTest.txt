@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: it.academy.rest.VisitorCountRestServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.605 s <<< FAILURE! - in it.academy.rest.VisitorCountRestServiceTest
+updateVisitorCount  Time elapsed: 0.388 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[100]0> but was:<[]0>
+	at it.academy.rest.VisitorCountRestServiceTest.updateVisitorCount(VisitorCountRestServiceTest.java:74)
+

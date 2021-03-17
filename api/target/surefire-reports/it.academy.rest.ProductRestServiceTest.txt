@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: it.academy.rest.ProductRestServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 32.833 s - in it.academy.rest.ProductRestServiceTest

@@ -1,0 +1,17 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <bean id="promoService" class="it.academy.service.PromoService" factory-method="create"
+                            init-method="init" destroy-method="destroy">
+        <property name="name" value="PromoService-name"/>
+        <property name="promoDao" ref="promoDaoImpl"/>
+
+    </bean>
+<bean name="promoDaoImpl" class="it.academy.dao.PromoDaoImpl">
+    <constructor-arg name="index" value="true"/>
+</bean>
+
+</beans>

@@ -1,0 +1,23 @@
+<dataset>
+   <T_PRODUCT
+                PRODUCT_ID="4028b88177448dad0177448db34e0000"
+                P_PRODUCT_DESCRIPTION="iPhone 10 128Gb"
+                P_PRODUCT_NAME="Apple Iphone"/>
+
+    <T_PRODUCT
+            PRODUCT_ID="4028b88177448dad0177448db34e0001"
+            P_PRODUCT_DESCRIPTION="iPhone 11 256Gb"
+            P_PRODUCT_NAME="Apple Iphone"/>
+
+    <T_PRODUCT
+            PRODUCT_ID="4028b88177448dad0177448db34e0002"
+            P_PRODUCT_DESCRIPTION="iPhone 12 512Gb"
+            P_PRODUCT_NAME="Apple Iphone"/>
+
+    <productprice
+            priceId="2c931081773d5a6201773d5a69900003"
+            currency="0"
+            priceValue="5990.99"
+            PRODUCT_ID="4028b88177448dad0177448db34e0002"/>
+
+   </dataset>
